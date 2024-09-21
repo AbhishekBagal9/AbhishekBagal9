@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img="https://lottie.host/46357389-6b7d-4d9b-b047-ff0981e51f3b/yXEUwgsqmy.json" alt="logo" />
+
 - 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **abhibagal34@gmail.com**
