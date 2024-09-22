@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="logo" width="400"/>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: auto; margin: 0 auto;">
+    <img src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif" alt="logo" style="width: 100%; max-width: 100%;" />
+</div>
+
 
 - 🌱 I’m currently learning **MERN**
 
