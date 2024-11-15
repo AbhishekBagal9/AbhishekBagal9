@@ -12,7 +12,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📫 How to reach me **abhibagal34@gmail.com**
 
